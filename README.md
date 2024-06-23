@@ -1,6 +1,7 @@
 # Health Bot
 
-![Health Bot](path/to/image.jpg)
+![image](https://github.com/sankalpsaoji98/Health-Bot/assets/26198596/c8f36d1f-35a4-4dd7-8828-f27330ebfc40)
+
 
 ## Introduction
 
